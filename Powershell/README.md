@@ -1,3 +1,3 @@
-# Powershell
+# PowerShell
 
-TIL markdown files for Powershell.
+TIL markdown files for PowerShell.

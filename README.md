@@ -9,7 +9,7 @@ Initial categories:
 - `.net`
 - `AWX`
 - `SQL`
-- `Powershell`
+- `PowerShell`
 - `Entra`
 
 Inspiration:
