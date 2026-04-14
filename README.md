@@ -1,4 +1,4 @@
-# til
+# TIL
 
 A repository of TILs (Today I Learned): small snippets, learnings, tips, and plans.
 
