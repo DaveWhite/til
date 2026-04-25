@@ -1,0 +1,25 @@
+site_name: Dave's TIL
+site_description: Today I Learned — small snippets, learnings, and tips.
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+
+docs_dir: .
+exclude_docs: |
+  Env/
+  LICENSE
+
+nav:
+  - Home: README.md
+  - .NET: .net/README.md
+  - AWX: AWX/README.md
+  - Entra: Entra/README.md
+  - PowerShell:
+      - Overview: PowerShell/README.md
+      - Fix IE Unsupported Version: PowerShell/Fix-IEUnsupportedVersion.md
+  - SQL: SQL/README.md
+  - Wooting: Wooting/profile.md
