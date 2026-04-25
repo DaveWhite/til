@@ -6,11 +6,12 @@ This is primarily a markdown content repository. Each TIL is a single markdown f
 
 Initial categories:
 
-- `.net`
-- `AWX`
-- `SQL`
-- `PowerShell`
-- `Entra`
+- [.NET](.net/README.md)
+- [AWX](AWX/README.md)
+- [Entra](Entra/README.md)
+- [PowerShell](PowerShell/README.md)
+- [SQL](SQL/README.md)
+- [Wooting](Wooting/profile.md)
 
 Inspiration:
 
