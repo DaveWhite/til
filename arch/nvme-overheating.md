@@ -7,7 +7,7 @@ The drive was sitting at **55–56°C at near-idle**. The correct idle range wit
 ## Diagnosing NVMe temperature
 
 ```bash
-watch -n 1 'cat /sys/class/nvme/nvme0/hwmon*/temp*_input | awk "{print \$1/1000\"°C\"}"'
+watch -n 1 'cat /sys/class/nvme/nvme0/hwmon*/temp*_input | awk "{print $1/1000\"°C\"}"'
 ```
 
 This polls the hwmon interface every second. `temp1_input` is the composite (overall) temperature; additional entries are sensor-specific readings.
