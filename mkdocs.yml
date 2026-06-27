@@ -16,6 +16,13 @@ exclude_docs: |
 nav:
   - Home: README.md
   - .NET: .net/README.md
+  - Arch / CachyOS:
+      - Overview: arch/README.md
+      - NVMe Overheating: arch/nvme-overheating.md
+      - NVIDIA Open Module Modprobe Config: arch/nvidia-open-module-modprobe.md
+      - AIO Pump Running Slow: arch/aio-pump-fan-header.md
+      - Clone NIC Tripping PSU Protection: arch/clone-nic-psu-protection.md
+      - Case Panel Blocking AIO Airflow: arch/case-panel-airflow.md
   - AWX: AWX/README.md
   - Entra: Entra/README.md
   - PowerShell:

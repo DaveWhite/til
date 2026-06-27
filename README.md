@@ -7,6 +7,7 @@ This is primarily a markdown content repository. Each TIL is a single markdown f
 Initial categories:
 
 - [.NET](.net/README.md)
+- [Arch / CachyOS](arch/README.md)
 - [AWX](AWX/README.md)
 - [Entra](Entra/README.md)
 - [PowerShell](PowerShell/README.md)
